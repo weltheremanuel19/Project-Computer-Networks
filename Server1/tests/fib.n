@@ -1,0 +1,8 @@
+Func main()
+	n = 13;  // this is the fibonacci number we want
+	Write("Fib of: " );
+	Write(n);
+	Write ("line 4");
+	a = 100;
+	Write(a);
+Endfunc
